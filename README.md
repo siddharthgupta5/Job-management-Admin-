@@ -47,21 +47,6 @@ npm start
 
 The application will be available at `http://localhost:3000`
 
-## Project Structure
-
-```
-career-path-dashboard-ui/
-├── src/
-│   ├── components/     # Reusable UI components
-│   ├── pages/         # Page components
-│   ├── services/      # API services
-│   ├── utils/         # Utility functions
-│   ├── hooks/         # Custom React hooks
-│   ├── types/         # TypeScript type definitions
-│   └── assets/        # Static assets
-├── public/            # Public assets
-└── package.json       # Project dependencies
-```
 
 ## Available Scripts
 
